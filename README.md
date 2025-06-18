@@ -19,10 +19,10 @@ Toutes les fonctionnalités sont implémentées en utilisant Jetpack Compose et 
 
 ### Écrans de l'application
 
-<p align="center">
-  <img src="screenshots/homescreen.jpg" alt="Accueil" width="200"/>
-  <img src="screenshots/question.jpg" alt="Question" width="200"/>
-  <img src="screenshots/answer.jpg" alt="Réponse" width="200"/>
+<p>
+    <img src="screenshots/homescreen.jpg" alt="Accueil" width="200"/>
+    <img src="screenshots/question.jpg" alt="Question" width="200"/>
+    <img src="screenshots/answer.jpg" alt="Réponse" width="200"/>
 </p>
 
 ### Fin de la session de révision
@@ -33,7 +33,7 @@ Toutes les fonctionnalités sont implémentées en utilisant Jetpack Compose et 
 - Cloner le projet avec la commande suivante :
 
 ```bash
-git clone https://github.com/MathysPierrez/Android-Tp-Flashcards.git
+git clone https://github.com/mpierrez/Android-Tp-Flashcards
 ```
 
 - Ouvrir avec Android Studio
